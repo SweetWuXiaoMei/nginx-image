@@ -1,8 +1,7 @@
-# seata2.3.0-arm-v1.0
-
+# nginx1.28.0-arm-v1.0
 ## 规格说明
 
-- 镜像商品：[seata-分布式事务](https://marketplace.huaweicloud.com/hidden/contents/63cb0a15-4197-479c-8c24-8ef3c281276f#productid=OFFI1154255073536368640)
+- 镜像商品：[nginx-网关](https://marketplace.huaweicloud.com/hidden/contents/63cb0a15-4197-479c-8c24-8ef3c281276f#productid=OFFI1154255073536368640)
 - 镜像规格：nginx1.28.0-arm-v1.0
 - 预置环境：nginx1.28.0 + JDK 21
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html) + [GaussDB](https://support.huaweicloud.com/gaussdb/index.html)
